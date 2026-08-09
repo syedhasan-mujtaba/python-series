@@ -55,7 +55,7 @@ The curriculum below follows the progression of the course while using original 
 - Why Python?
 - Introduction to the Python learning journey
 
-**Status:** 🔄 Learning / Documenting
+**Status:** ✅ Completed
 
 ## Chapter 1 — Modules, Comments & pip
 
@@ -296,6 +296,7 @@ A larger project involving an AI-based automated reply concept.
 
 Practice work will be added alongside the chapters:
 
+- Chapter 0 — Introduction to Python
 - Chapter 1 — Modules, Comments & pip
 - Chapter 2 — Variables & Data Types
 - Chapter 3 — Strings
@@ -317,6 +318,7 @@ Practice work will be added alongside the chapters:
 ```text
 python-series/
 │
+├── Chapter 0/
 ├── Chapter 1/
 ├── Chapter 2/
 ├── Chapter 3/
@@ -422,7 +424,7 @@ python3 filename.py
 
 | Section | Status |
 |---|:---:|
-| Chapter 0 — Introduction | 🔄 |
+| Chapter 0 — Introduction to Python | ✅ |
 | Chapter 1 — Modules, Comments & pip | ✅ |
 | Chapter 2 — Variables & Data Types | ✅ |
 | Chapter 3 — Strings | ✅ |
@@ -436,7 +438,7 @@ python3 filename.py
 | Chapter 11 — Inheritance & OOP | ⏳ |
 | Chapter 12 — Advanced Python 1 | ⏳ |
 | Chapter 13 — Advanced Python 2 | ⏳ |
-| Practice Sets | 🔄 |
+| Practice Sets | ⏳ |
 | Projects | ⏳ |
 
 ### Status Legend
@@ -462,6 +464,7 @@ Possible future areas include:
 - Machine Learning
 - Agentic AI
 - Automation
+- Cyber Security
 - Other areas of technology that I discover along the way
 
 > My long-term career direction is still being explored, so this roadmap is intentionally flexible.
