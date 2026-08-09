@@ -155,7 +155,7 @@ The curriculum below follows the progression of the course while using original 
 
 - Chapter 5 practice set
 
-**Status:** 🔄 In Progress
+**Status:** ✅ Completed
 
 ## Chapter 6 — Conditional Expressions
 
@@ -425,11 +425,11 @@ python3 filename.py
 | Section | Status |
 |---|:---:|
 | Chapter 0 — Introduction to Python | ✅ |
-| Chapter 1 — Modules, Comments & pip | ✅ |
+| Chapter 1 — Modules, Comments & Pip | ✅ |
 | Chapter 2 — Variables & Data Types | ✅ |
 | Chapter 3 — Strings | ✅ |
 | Chapter 4 — Lists & Tuples | ✅ |
-| Chapter 5 — Dictionaries & Sets | 🔄 |
+| Chapter 5 — Dictionaries & Sets | ✅ |
 | Chapter 6 — Conditional Expressions | ⏳ |
 | Chapter 7 — Loops | ⏳ |
 | Chapter 8 — Functions & Recursions | ⏳ |
