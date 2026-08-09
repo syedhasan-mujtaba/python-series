@@ -47,17 +47,18 @@ Course: https://www.youtube.com/watch?v=UrsmFxEIp5k
 
 The curriculum below follows the progression of the course while using original descriptions and organization for this repository.
 
-## Chapter 0 — Introduction to Programming
+## Chapter 0 — Introduction to Python
 
 - What is programming?
 - What is a programming language?
 - Basic programming concepts
+- What is python?
 - Why Python?
 - Introduction to the Python learning journey
 
 **Status:** ✅ Completed
 
-## Chapter 1 — Modules, Comments & pip
+## Chapter 1 — Modules, Comments & Pip
 
 - First Python program
 - Modules and imports
