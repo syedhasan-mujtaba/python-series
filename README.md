@@ -431,9 +431,9 @@ python3 filename.py
 | Chapter 3 — Strings | ✅ |
 | Chapter 4 — Lists & Tuples | ✅ |
 | Chapter 5 — Dictionaries & Sets | ✅ |
-| Chapter 6 — Conditional Expressions | ⏳ |
-| Chapter 7 — Loops | ⏳ |
-| Chapter 8 — Functions & Recursions | ⏳ |
+| Chapter 6 — Conditional Expressions | ✅ |
+| Chapter 7 — Loops | ✅ |
+| Chapter 8 — Functions & Recursions | ✅ |
 | Chapter 9 — File I/O | ⏳ |
 | Chapter 10 — Object-Oriented Programming | ⏳ |
 | Chapter 11 — Inheritance & OOP | ⏳ |
