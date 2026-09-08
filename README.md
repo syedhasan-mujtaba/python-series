@@ -170,7 +170,7 @@ The curriculum below follows the progression of the course while using original 
 - `match-case`
 - Chapter 6 practice set
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ## Chapter 7 — Loops in Python
 
@@ -184,7 +184,7 @@ The curriculum below follows the progression of the course while using original 
 - `pass`
 - Chapter 7 practice set
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ## Chapter 8 — Functions & Recursions
 
@@ -196,7 +196,7 @@ The curriculum below follows the progression of the course while using original 
 - Recursive functions
 - Chapter 8 practice set
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ## Chapter 9 — File I/O
 
