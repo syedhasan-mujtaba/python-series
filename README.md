@@ -208,7 +208,7 @@ The curriculum below follows the progression of the course while using original 
 - Working with directories
 - Chapter 9 practice set
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ## Chapter 10 — Object-Oriented Programming
 
@@ -434,7 +434,7 @@ python3 filename.py
 | Chapter 6 — Conditional Expressions | ✅ |
 | Chapter 7 — Loops | ✅ |
 | Chapter 8 — Functions & Recursions | ✅ |
-| Chapter 9 — File I/O | ⏳ |
+| Chapter 9 — File I/O | ✅|
 | Chapter 10 — Object-Oriented Programming | ⏳ |
 | Chapter 11 — Inheritance & OOP | ⏳ |
 | Chapter 12 — Advanced Python 1 | ⏳ |
