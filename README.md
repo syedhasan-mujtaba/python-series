@@ -221,7 +221,7 @@ The curriculum below follows the progression of the course while using original 
 - Object-oriented program design
 - Chapter 10 practice set
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ## Chapter 11 — Inheritance & More on OOP
 
@@ -435,7 +435,7 @@ python3 filename.py
 | Chapter 7 — Loops | ✅ |
 | Chapter 8 — Functions & Recursions | ✅ |
 | Chapter 9 — File I/O | ✅|
-| Chapter 10 — Object-Oriented Programming | ⏳ |
+| Chapter 10 — Object-Oriented Programming | ✅ |
 | Chapter 11 — Inheritance & OOP | ⏳ |
 | Chapter 12 — Advanced Python 1 | ⏳ |
 | Chapter 13 — Advanced Python 2 | ⏳ |
