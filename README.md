@@ -233,7 +233,7 @@ The curriculum below follows the progression of the course while using original 
 - Additional OOP concepts
 - Chapter 11 practice set
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ## Chapter 12 — Advanced Python 1
 
@@ -436,7 +436,7 @@ python3 filename.py
 | Chapter 8 — Functions & Recursions | ✅ |
 | Chapter 9 — File I/O | ✅|
 | Chapter 10 — Object-Oriented Programming | ✅ |
-| Chapter 11 — Inheritance & OOP | ⏳ |
+| Chapter 11 — Inheritance & OOP | ✅ |
 | Chapter 12 — Advanced Python 1 | ⏳ |
 | Chapter 13 — Advanced Python 2 | ⏳ |
 | Practice Sets | ⏳ |
